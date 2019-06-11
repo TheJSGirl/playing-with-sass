@@ -3,6 +3,8 @@
 
 
 .contact  {
-    @include flexCenter(column)
+    // @include flexCenter(column);
+    @extend header;
+    background-color: pink;
 
   }

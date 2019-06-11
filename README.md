@@ -38,3 +38,9 @@ both css blocks are working similar
 
 - To declare a mixin we use ```@mixin functionName()```
 - To include the mixin we use ```@include functionName()```
+
+### Extend
+- It is one of the most useful features that allows us to share a set of CSS properties from one selector to another.
+- It is kind of inheritance to get all the parent properties in child selector.
+- We can override the properties 
+- Syntax: ```@extend selectorName```
