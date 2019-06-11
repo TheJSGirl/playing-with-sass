@@ -2,6 +2,7 @@
 @import './header';
 
 
-.contact button {
-    background: $primary-btn;
-}
+.contact  {
+    @include flexCenter(column)
+
+  }
