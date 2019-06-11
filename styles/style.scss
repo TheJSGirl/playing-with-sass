@@ -1,14 +1,6 @@
-$primary-btn: rgb(182, 85, 153);
+@import './varibles';
+@import './header';
 
-header{
-    background: lightblue;
-    display: flex;
-    justify-content: center;
-}
-
-header button {
-    background: $primary-btn;
-}
 
 .contact button {
     background: $primary-btn;

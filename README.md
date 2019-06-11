@@ -25,3 +25,8 @@ header button {
 } 
 ```
 both css blocks are working similar
+
+### Import
+- It uses to modularise the css code in multiple files
+- We can just import the files sequencially in main scss file
+- Syntax: ```@import fileName```;
